@@ -1,4 +1,4 @@
-module internal_server
+module github.com/MahadMir/proglog
 
 go 1.22.2
 

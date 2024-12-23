@@ -1,8 +1,9 @@
 package main
 
 import (
-	"internal/server"
 	"log"
+
+	"github.com/MahadMir/proglog/internal/server"
 )
 
 func main() {
